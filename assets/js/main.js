@@ -102,7 +102,7 @@
   //========= glightbox
   GLightbox({
     selector: ".glightbox",
-    href: "assets/video/Free App Landing Page Template - AppLand.mp4",
+    href: "assets/video/chordflow.mp4",
     type: "video",
     source: "youtube", //vimeo, youtube or local
     width: 900,
